@@ -7,6 +7,10 @@
 int main()
 {
 	int hello;
+	ぜぐぜし
+		ぁし
+		しぞぉ
+
     return 0;
 }
 
